@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ 
+
+
+
+ body{
+        background: #f4f4f4;
+      }
+
+
+           .userName{
+
+              display: inline-block;
+              color: white;
+
+           }
+
+           .section1{
+             display: inline-block;
+             position: relative;
+             left: 20px;
+
+           }
+
+           .section2{
+             
+             display: inline-block;
+             position: relative;
+             left: 34px;
+
+           }
+
+           .section3{
+              display: inline-block;
+              position: relative;
+              left: 16px;
+
+           }
+
+           .section4{
+              display: inline-block;
+              position: relative;
+              left: 18px;
+
+           }
+      
+   
+   
+
+
+    #srch{
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 1em;
+    margin-left: 26em;
+
+      }
+
+      
+
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+    
+      
+    .banner {
+      width: 100%;
+      height: 100vh;
+    
+    }
+
+       
+
+       
+}
